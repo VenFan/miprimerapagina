@@ -15,7 +15,9 @@ main{
     height: 50px;
     background-color: black;
 }
-
+.greeting{
+    text-align: center;
+}
 
 .navbar {
     display: flex;
